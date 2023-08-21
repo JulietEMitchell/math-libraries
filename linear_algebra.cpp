@@ -8,6 +8,7 @@ int main(){
 
 std::vector<float> vect = {1, 1, 1};
 std::cout << magnitude(vect) << std::endl;
+std::cout << "testing" << std::endl;
 
 }
 
